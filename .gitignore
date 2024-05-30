@@ -1,0 +1,7 @@
+
+.venv/bin
+.venv/include/site/python3.10/greenlet
+.venv/lib/python3.10/site-packages
+.venv/lib64
+.venv
+pack/github/start/copilot.vim
